@@ -1,0 +1,35 @@
+input {
+    height: 100px;
+    width: 40%;
+    margin: 5px auto;
+    display: block;
+    margin: 5px auto;
+    font-size: 2rem;
+    border-radius: 1rem;
+    border: none;
+    outline: none;
+    background-color: gray;
+}
+
+#root{
+    height: 100%;
+    width: 100%;
+}
+
+.App{
+    height: 100%;
+    width: 100%;
+}
+
+li{
+    list-style: none;
+    font-size: 2rem;
+    text-align: center;
+}
+button{
+    margin:1rem;
+    background-color: rgb(232, 127, 127);
+    border: none;
+    color:white;
+    border-radius: 5px;
+}
